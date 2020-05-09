@@ -45,7 +45,7 @@ $con= mysqli_connect('localhost', 'root');
   <header>
     <div class="container center-div shadow " >
       <div class="heading text-center text-uppercase text-white">REGISTRATION</div>
-      <div class= "container row d-flex flex-row justify-content-center">
+      <div class= "container row d-flex flex-row justify-content-center ">
         <div class="admin-form shadow p-2">
           <form action="logincheck.php" method="POST">
             <div class="form-group">
@@ -55,12 +55,12 @@ $con= mysqli_connect('localhost', 'root');
           </div>
           <div class="form-group">
           <label> PASSWORD </label>
-          <input type="text" name="pass" value=""
+          <input type="password" name="pass" value=""
           class ="form-control" autocomplete="off">
         </div>
         <div class="form-group">
         <label>CONFIRM PASSWORD </label>
-        <input type="text" name="passconfirm" value=""
+        <input type="password" name="passconfirm" value=""
         class ="form-control" autocomplete="off">
       </div>
         <input type="submit" class="btn btn-success" value="Register" name="register">
