@@ -9,7 +9,7 @@ font-family: 'Proza Libre', sans-serif;
 }
 .middle-class {
   background-color: white;
-  height: 800px;
+  height: 900px;
   padding: 5%;
 }
 
@@ -22,6 +22,7 @@ font-family: 'Proza Libre', sans-serif;
 .image {
   width: 100%;
   height: 500px;
+  
 }
 
 #heading {

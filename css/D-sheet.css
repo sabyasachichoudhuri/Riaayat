@@ -1,0 +1,40 @@
+.top-class{
+  background-color: #8cba51;
+  height: 500px;
+  width: 100%;
+
+}
+.middle-class{
+  height: 400px;
+  padding: 5%;
+}
+
+.lower-class{
+  background-color: #8cba51;
+  height: 300px;
+  width: 100%;
+}
+.image{
+  height: 400px;
+  width: 1380px;
+  padding: 4%;
+}
+@keyframes example {
+  0%   {background-color: #eb6383;}
+  25%  {background-color: #ffd31d;}
+  50%  {background-color: #142850;}
+  100% {background-color: #d63447;}
+}
+
+/* The element to apply the animation to */
+.heading{
+  width: 400px;
+  height: 60px;
+  text-align: center;
+  font-size: 40px;
+  font-family: sans-serif;
+  background-color:#8cba51; 
+  animation-name: example;
+  animation-duration: 6s;
+
+}

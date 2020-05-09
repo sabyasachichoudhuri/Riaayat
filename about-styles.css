@@ -1,0 +1,30 @@
+h1
+{
+  font-size: 55px;
+}
+body
+{
+  text-align: center;
+  padding:5px,5px,0,5px;
+  font-family: 'Merriweather', serif;
+  font-size: 22px;
+}
+
+.topcontainer
+{
+  background-color: #e1f2fb;
+  position: relative;
+  bottom: 80px;
+}
+
+img
+{
+  display:block;
+  position: relative;
+  top:70px;
+  bottom: 40px;
+  width: 60%;
+  /*opacity: 0.5;*/
+  /*margin-left: auto;
+  margin-right: auto;*/
+}
