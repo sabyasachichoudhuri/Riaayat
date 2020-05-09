@@ -74,7 +74,8 @@ p{
   padding-top:20px;
   height:35rem;
 }
-.contact-div{
+.contact-div
+{
   height:3rem;
 
 }
@@ -133,6 +134,7 @@ body{
   position :static;
 
 }
+
 h1{
   font-size: 3rem;
   text-align: center;
