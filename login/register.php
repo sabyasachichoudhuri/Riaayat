@@ -44,8 +44,8 @@ $con= mysqli_connect('localhost', 'root');
 </nav>
   <header>
     <div class="container center-div shadow " >
-      <div class="heading text-center mb-5 text-uppercase text-white">REGISTRATION PAGE</div>
-      <div class= "container row d-flex flex-row justify-content-center mb-5">
+      <div class="heading text-center text-uppercase text-white">REGISTRATION</div>
+      <div class= "container row d-flex flex-row justify-content-center">
         <div class="admin-form shadow p-2">
           <form action="logincheck.php" method="POST">
             <div class="form-group">
