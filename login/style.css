@@ -13,7 +13,7 @@
   width: 100%;
   line-height: 80px;
   font-size: 1.5rem;
-  background: -webkit-linear-gradient(left, #0072ff, #8811c5);
+  /*background: -webkit-linear-gradient(left, #0072ff, #8811c5);*/
   font-family: 'Staatliches', cursive;
 }
 form{
