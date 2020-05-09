@@ -153,4 +153,12 @@ p{
   margin-left: auto;
   margin-top: 55%;
 }
+
+.contact-div{
+  height: 5rem;
+  text-size: 1rem;
+  font-family: 'Proza Libra', sans-serif;
+  text-align: centre;
+  background-color: #91bd3a;
+  colour: black;
 }
