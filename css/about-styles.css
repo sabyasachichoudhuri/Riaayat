@@ -1,0 +1,42 @@
+h1
+{
+  font-size: 55px;
+}
+p{
+  font-size: 1.2rem;
+}
+.copy{
+  color:black;
+  font-size:1.2rem;
+
+}
+body
+{
+  text-align: center;
+  padding:5px 5px 0 5px;
+  font-family: 'Proza Libre', sans-serif;
+  font-size: 22px;
+}
+
+.top-container
+{
+  background-color: #e1f2fb;
+  position: relative;
+  text-align: center;
+}
+.contact-div{
+  text-align:center;
+  position: relative;
+  color:black;
+  padding-top: 20px;
+  padding-bottom:20px;
+}
+
+/* img
+{
+  /* display:inline-block; */
+  /* position: relative; */
+   /* width: 60%; */
+  /*opacity: 0.5;*/
+  /*margin-left: auto;
+  margin-right: auto;}*/
