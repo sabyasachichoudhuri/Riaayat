@@ -24,7 +24,7 @@ $con= mysqli_connect('localhost', 'root');
         <div class="admin-form shadow p-2">
           <form action="logincheck.php" method="POST">
             <div class="form-group">
-            <label> USERNAME /EMAIL ID</label>
+            <label>EMAIL ID</label>
             <input type="text" name="user" value=""
             class ="form-control" autocomplete="off">
           </div>
