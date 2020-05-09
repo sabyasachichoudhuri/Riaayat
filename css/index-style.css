@@ -1,4 +1,8 @@
-
+.copy{
+  color:black;
+  font-size: 12px;
+  text-align: center;
+}
 #jumb-promo{
   background-image: url(../img/ban.jpg);
   background-repeat:no-repeat;
@@ -23,6 +27,7 @@ body{
   background-image:url(../img/bg.jpg);
   background-repeat:no-repeat;
   background-size:100% 100%;
+    text-align:center;
   font-family: 'Proza Libre', sans-serif;
 }
 .bg-image{
@@ -33,12 +38,10 @@ body{
   background-color:#96c659;
 }
 .contact-div{
-  height:5rem;
-  text-size:1rem;
-  font-family: 'Proza Libre', sans-serif;
-  text-align:center;
-  background-color:#91bd3a;
-  colour:black;
+  position: static;
+  color:black;
+  padding-top: 20px;
+  padding-bottom:20px;
 }
 h1{
   font-size: 4rem;
