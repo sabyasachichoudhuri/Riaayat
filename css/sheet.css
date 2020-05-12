@@ -8,7 +8,8 @@ font-family: 'Proza Libre', sans-serif;
   background-color:#96c659;
 }
 .middle-class {
-  background-color: white;
+  background-image: url(../img/happy.jpg);
+  
   height: 900px;
   padding: 5%;
 }
