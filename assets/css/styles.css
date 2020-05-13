@@ -1,0 +1,58 @@
+#connect {
+  text-align: center;
+  padding: 40px;
+  background: url(../../assets/img/bg.jpg);
+  background-size: cover;
+}
+
+#connect .jumbotron {
+  border-radius: 20px;
+  border-color: white;
+  max-width: 900px;
+  margin: auto;
+}
+
+.btn.btn-success {
+  margin: 50px;
+  height: inherit;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background-color: rgb(150,198,89);
+}
+
+#image {
+  background: url(../../assets/img/ban.jpg);
+}
+
+#font {
+  font-family: 'Proza Libre';
+}
+
+@media (min-width: 300px) {
+  #connect {
+    padding: 15px;
+  }
+}
+
+.h5, h5 {
+  padding-top: 20px;
+}
+
+#logo {
+  max-height: 60px;
+}
+
+img {
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  color: rgba(0,0,0,.9);
+  background-color: rgb(46,108,1);
+}
+
+.navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show > .nav-link {
+  background-color: rgb(108,152,72);
+  border-color: transparent;
+}
+
