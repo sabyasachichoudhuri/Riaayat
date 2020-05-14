@@ -24,12 +24,9 @@ body {
   }
 }
 
-.image{
-  background-size: cover;
-}
-
 /* The element to apply the animation to */
 .heading{
   text-align: center;
   font-size: 40px;
+  padding-bottom: 30px;
 }
