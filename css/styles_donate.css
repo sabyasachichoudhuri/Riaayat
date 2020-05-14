@@ -1,0 +1,35 @@
+
+#connect {
+  text-align: center;
+  padding: 40px;
+  background: url(../img/bg.jpg);
+  background-size: cover;
+}
+
+#logo {
+  max-height: 60px;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background-color: rgb(150,198,89);
+}
+
+body {
+  font-family: 'Proza Libre';
+}
+
+@media (min-width: 300px) {
+  #connect {
+    padding: 15px;
+  }
+}
+
+.image{
+  background-size: cover;
+}
+
+/* The element to apply the animation to */
+.heading{
+  text-align: center;
+  font-size: 40px;
+}

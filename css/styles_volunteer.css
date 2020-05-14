@@ -1,0 +1,87 @@
+
+#connect {
+  text-align: center;
+  padding: 40px;
+  background: url(../img/bg.jpg);
+  background-size: cover;
+}
+
+#logo {
+  max-height: 60px;
+}
+
+.navbar.navbar-light.navbar-expand-md {
+  background-color: rgb(150,198,89);
+}
+
+body {
+  font-family: 'Proza Libre';
+}
+
+@media (min-width: 300px) {
+  #connect {
+    padding: 15px;
+  }
+}
+
+#heading {
+  color: #565d47;
+  font-size: 40px;
+  font-weight: 800px;
+}
+
+#heading2 {
+  font-size: 30px;
+
+  color: black;
+  text-shadow: 2px 2px 4px #af8baf;
+}
+
+.para {
+  color: #363636;
+  font-size: 20px;
+
+}
+#heading3{
+  font-size: 25px;
+  font-style: italic;
+  color: #512b58;
+}
+.anime{
+  font-size: 25px;
+ color:#ff7c7c;
+ animation-name: example;
+ animation-duration: 8s;
+}
+@keyframes example {
+  from {color: #ff7c7c;}
+  to {color:#54123b ;}
+}
+#heading4{
+  font-size: 25px;
+  color: black;
+  text-decoration: underline;
+}
+.para2{
+  color: black;
+
+  font-size: 15px;
+}
+.copy{
+  color:black;
+  font-size: 12px;
+  text-align: center;
+
+}
+.hr{
+  color: black;
+}
+
+.bg_happy {
+  background-image: url(../img/happy.jpg);
+  background-size: cover;
+    padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 20px;
+}
+

@@ -1,7 +1,7 @@
 #connect {
   text-align: center;
   padding: 40px;
-  background: url(../../assets/img/bg.jpg);
+  background: url(../img/bg.jpg);
   background-size: cover;
 }
 
@@ -22,7 +22,7 @@
 }
 
 #image {
-  background: url(../../assets/img/ban.jpg);
+  background: url(../img/ban.jpg);
 }
 
 body {
